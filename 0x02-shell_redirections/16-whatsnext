@@ -1,0 +1,2 @@
+#!/bin/bash
+gepr -A 3 'root' /etc/passwd
