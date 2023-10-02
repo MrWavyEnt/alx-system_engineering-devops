@@ -1,0 +1,7 @@
+total 12
+-rwxr--r-- 1 root root  30 Oct  2 08:41 0-hello_world
+drwxr-xr-x 3 root root  86 Sep 28 19:52 0x00-shell_basics
+drwxr-xr-x 2 root root 214 Sep 29 17:26 0x01-shell_permissions
+-rw-r--r-- 1 root root   0 Oct  2 09:25 clear
+-rw-r--r-- 1 root root  29 Oct  2 08:38 mkdir
+-rw-r--r-- 1 root root  34 Sep 28 08:39 README.md
